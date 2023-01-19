@@ -1,0 +1,8 @@
+.detail {
+  text-align: center;
+  background-color: rgb(145, 200, 200);
+}
+.detail img {
+  width: 30%;
+  height: 50%;
+}
